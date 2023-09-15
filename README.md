@@ -1,2 +1,2 @@
 # CnT-Portal
-A full stack web application for transparent tendering environment of Government Projects.
+The Transparent Tendering Portal is a comprehensive solution that simplifies and enhances the tendering process for government projects. It allows government agencies to create, manage, and publish tenders, while contractors can easily access and submit bids. The system's unique feature is the integrated user review and rating system, enabling government officials to make informed decisions based on contractor performance.
